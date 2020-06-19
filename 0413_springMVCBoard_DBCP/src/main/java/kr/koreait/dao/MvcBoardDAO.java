@@ -263,9 +263,7 @@ public class MvcBoardDAO {
 			if(conn != null) { try { conn.close(); } catch (SQLException e) { e.printStackTrace(); } }
 		}
 	}
-	public void aasdasd() {
 		
-	}
 }
 
 
